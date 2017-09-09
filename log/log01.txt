@@ -1,0 +1,4 @@
+w01-170905-23-PS-About:CLI, GIT, and SCRIPTING
+w01-170908-16-DS-Discuss Log In problem with asdos
+w01-170908-18-DS-Discuss CLI, GIT, and SCRIPTING
+w01-170909-08-PS-About:CLI, GIT, and SCRIPTING
