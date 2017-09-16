@@ -1,0 +1,9 @@
+w02-170911-16-PS-About: C, Sign, and Encryption
+w02-170911-17-PS-About: C, Sign, and Encryption
+w02-170911-18-DS-Discuss encryption with friends
+w02-170912-16-LR-About: C, Sign, and Encryption, From: Lecturer
+w02-170912-17-LR-About: C, Sign, and Encryption, From: Lecturer
+w02-170913-23-LR-About: C, From: Google
+w02-170914-16-LR-About: C, From: Lecturer
+w02-170914-17-LR-About: C, From: Lecturer
+w02-170914-18-PS-Discuss C with friends
