@@ -1,0 +1,8 @@
+Week:w04-170925-16.00-LR-About: Pointer, From: Lecturer
+Week:w03-170925-17.00-LR-About: Pointer, From: Lecturer
+Week:w03-170925-23.00-PS-About: Pointer and I/O Program
+Week:w03-170926-16.00-LR-About: I/O, From: Lecturer
+Week:w03-170926-17.00-LR-About: I/O, From: Lecturer
+Week:w03-170928-16.00-LR-About: I/O, From: Lecturer
+Week:w03-170928-17.00-LR-About: I/O, From: Lecturer
+Week:w03-170930-07.00-PS-About: Pointer and I/O Program

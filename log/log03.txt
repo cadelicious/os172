@@ -1,0 +1,6 @@
+Week:w03-170918-16.00-LR-About: C Language, From: Lecturer
+Week:w03-170918-17.00-LR-About: C Language, From: Lecturer
+Week:w03-170919-09.00-PS-BIOS, Boot, and Upstart
+Week:w03-170919-16.00-LR-About: C Language, From: Lecturer
+Week:w03-170919-17.00-LR-About: C Language, From: Lecturer
+Week:w03-170922-22.00-LR-BIOS, Boot, and Upstart
