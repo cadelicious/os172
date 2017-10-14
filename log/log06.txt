@@ -1,0 +1,5 @@
+w05-171010-16-LR-About: Memory, From: Lecturer
+w05-171010-17-LR-About: Memory, From: Lecturer
+w05-171012-16-LR-About: Memory, From: Lecturer
+w05-171012-17-LR-About: Memory, From: Lecturer
+w05-171014-12-PS-About: Memory
