@@ -1,0 +1,9 @@
+w07-171106-16-PS-About: Synchronization
+w07-171106-17-PS-About: Synchronization
+w07-171107-16-LR-About: C Programming, From: Lecturer
+w07-171107-17-LR-About: C Programming, From: Lecturer
+w07-171109-16-LR-About: C Programming, From: Lecturer
+w07-171109-17-LR-About: C Programming, From: Lecturer
+w07-171110-22-PS-About: Synchronization
+w07-171111-14-PS-About: Synchronization
+
